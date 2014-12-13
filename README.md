@@ -1,4 +1,4 @@
 maxilian-blog-project
 =====================
 
-Project Web Maxilian Based on CodeIgniter
+This is my very first project using codeigniter. It's not good enough, just my trial on using codeigniter. 
